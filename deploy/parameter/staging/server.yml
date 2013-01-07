@@ -1,0 +1,2 @@
+servers:
+- ['stage.tvision.com', 'apache2', 'web', 'app']

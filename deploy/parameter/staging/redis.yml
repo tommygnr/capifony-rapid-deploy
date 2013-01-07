@@ -1,0 +1,4 @@
+redis_client:
+  - { host: 127.0.0.1,  port: 6379, flushdb: 0 }
+# if multiple db:
+#   - { host: 127.0.0.1,  port: 6379, flushdb: 1 }

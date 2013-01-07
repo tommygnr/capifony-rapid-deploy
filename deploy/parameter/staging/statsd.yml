@@ -1,0 +1,3 @@
+statsd_client:
+    enabled: false
+    #todo listen enabled

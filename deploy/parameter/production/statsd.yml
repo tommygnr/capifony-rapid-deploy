@@ -1,0 +1,4 @@
+statsd_client:
+    enabled: true
+    host: statsd.tvision.com
+    port: 8125
